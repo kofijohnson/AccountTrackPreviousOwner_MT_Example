@@ -13,5 +13,5 @@ The Triggers Package will contain the [MicroTrigger Framework](https://github.co
 ## Deploy "Account Track Previous Owner" Example
 
 1. Clone this repository,
-2. Create a new scratch org and install the Triggers Package version created earlier,
+2. Create a new scratch org and install the version of the Triggers Package version created earlier,
 3. Push the code to the scratch org. Run all the test classes and confirm all the tests pass.
